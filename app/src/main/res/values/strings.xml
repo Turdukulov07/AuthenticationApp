@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AuthenticationApp</string>
+    <string name="textview">TextView</string>
+    <string name="phone">Phone</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login_here">Already Registered? Login here</string>
+</resources>
